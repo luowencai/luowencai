@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luowencai
-- 👀 I’m interested in PHP,Golang, C++, Web, Linux
+- 👀 I’m interested in Golang, C++, Web, Linux
 - 🌱 I’m currently learning C++
 
 <!---
